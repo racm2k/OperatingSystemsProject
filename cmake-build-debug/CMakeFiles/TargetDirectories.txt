@@ -1,0 +1,3 @@
+/home/rmachado/Documents/uni/SO/Projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rmachado/Documents/uni/SO/Projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rmachado/Documents/uni/SO/Projeto/cmake-build-debug/CMakeFiles/Projeto.dir
